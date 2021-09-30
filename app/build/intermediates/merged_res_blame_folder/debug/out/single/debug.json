@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_update.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable-v24\\update.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notes_layout.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\notes_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_editnoteactivity.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\activity_editnoteactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notedetails.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\activity_notedetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fogotpassword.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\activity_fogotpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_save.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable-v24\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_createnote.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\activity_createnote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_circle_up_24.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_circle_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edit.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable-v24\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_design.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\drawable\\button_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notesactivity.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\activity_notesactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Teodora\\Desktop\\NotesApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    }
+]
